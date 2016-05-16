@@ -14,7 +14,7 @@ namespace Business
         {
             try
             {
-                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://test.client.fabric8.co.uk/api/packages/66");
+                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://test.client.fabric8.co.uk/api/packages/");
                 WebResponse response = request.GetResponse();
                 using (Stream responseStream = response.GetResponseStream())
                 {
