@@ -1,0 +1,5 @@
+c:\Users\Labbit\documents\visual studio 2015\Projects\Test\Business\bin\Debug\Business.dll
+c:\Users\Labbit\documents\visual studio 2015\Projects\Test\Business\bin\Debug\Business.pdb
+c:\Users\Labbit\documents\visual studio 2015\Projects\Test\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\Users\Labbit\documents\visual studio 2015\Projects\Test\Business\obj\Debug\Business.dll
+c:\Users\Labbit\documents\visual studio 2015\Projects\Test\Business\obj\Debug\Business.pdb
