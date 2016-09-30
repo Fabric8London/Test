@@ -5,7 +5,7 @@
 *.user
 *.FileListAbsolute.txt
 
-
+packages/*
 */bin/
 */obj/
 *.config
